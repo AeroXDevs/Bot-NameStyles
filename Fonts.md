@@ -29,7 +29,7 @@ Each font has a numeric ID you pass as `display_name_font_id`. There are 12 font
 |----|------|-------|-------|
 | `1` | Bangers | Bold Comic | Thick, comic-book lettering |
 | `2` | BioRhyme | Elegant Serif | Classic serif, refined look |
-| `3` — Cherry Bomb | Sakura | Playful bubble-style characters |
+| `3` | Cherry Bomb | Sakura | Playful bubble-style characters |
 | `4` | Chicle | Jellybean | Rounded, soft and bubbly |
 | `5` | Compagnon | Display | Stylish mixed-weight display font |
 | `6` | MuseoModerno | Modern | Clean, geometric, modern feel |
