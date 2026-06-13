@@ -23,7 +23,7 @@ function hexToInt(hex) {
 
 ```
 hexToInt('#ffffff')  →  16777215
-hexToInt('#5865F2')  →  5792242
+hexToInt('#5865F2')  →  5793266
 hexToInt('#000000')  →  0
 ```
 
@@ -53,10 +53,10 @@ intToHex(5865)      →  #0016E9
 |------|-----|---------|
 | White | `#FFFFFF` | `16777215` |
 | Black | `#000000` | `0` |
-| Discord Blurple | `#5865F2` | `5792242` |
-| Discord Green | `#57F287` | `5701255` |
+| Discord Blurple | `#5865F2` | `5793266` |
+| Discord Green | `#57F287` | `5763719` |
 | Discord Red | `#ED4245` | `15548997` |
-| Discord Yellow | `#FEE75C` | `16646492` |
+| Discord Yellow | `#FEE75C` | `16705372` |
 | Pink | `#FF00FF` | `16711935` |
 | Purple | `#800080` | `8388736` |
 | Blue (Discord Presence) | `#0016E9` | `5865` |
